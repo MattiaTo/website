@@ -1,3 +1,3 @@
 # website
 
-[ciao](website/index.html)
+[ciao](https://github.com/MattiaTo/website/blob/gh-pages/index.html)
